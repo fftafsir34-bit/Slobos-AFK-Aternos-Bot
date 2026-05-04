@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "salehin_niger",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Privatesmpfun.aternos.me",
+    "port": 43319,
     "version": "",
     "try-creative": false
   },
