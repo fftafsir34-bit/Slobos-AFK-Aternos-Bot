@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "STAFF00",
+    "username": "THE_GHOST",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Emberlightfun.aternos.me",
+    "ip": "emberlightfun.dpdns.org",
     "port": 47563,
     "version": "",
     "try-creative": false
